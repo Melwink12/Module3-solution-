@@ -1,0 +1,47 @@
+body{
+	margin: 0;
+    padding: 0;
+    font-family: helvetica;
+   background-color: #0000ff;
+ }
+
+.row{
+	margin-top:6%;
+	margin-bttom:6%}
+h1 {
+  margin-bottom: 17px;
+  color: #000000;
+  font-size: 50px;
+
+}
+.content{
+  border: 3px solid black;
+  width: 100%;
+  margin: 2.5%;
+  color: black
+  font-size: 25px;
+  padding: 2%;
+  background-color: #B3B6B7;
+
+}
+ #header-nav {
+      background-color: #0000ff;
+      border-radius: 0;
+      border: 0;
+  }
+  .navbar-brand {
+    line-height: 76px;
+    height: 76px;
+    padding-top: 0;
+}
+
+
+    
+
+
+
+
+
+
+
+ 
