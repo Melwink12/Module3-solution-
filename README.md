@@ -1,5 +1,5 @@
 # Module3-solution-
-<html lang="en"><head><meta http-equiv="Content-Type" content="text/html"; charset="UTF-8">
+<html lang="en"><head>
 
 <title>Food, LLC</title>
 
